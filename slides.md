@@ -82,17 +82,16 @@ h1 {
 ---
 
 
-# Weaverse features?
+# Weaverse features
 
 Some highlight features
 - 📝 **Drag and Drop Components** - Building websites with ease.
 - ⚙️ **Theming - Global Styling** - with support styling token, variables, and more.
 - 🛠️ **Framework code gen** - ready to use Hydrogen, Remix, Next,...
 - 📚 **Bring your own code** - write your own components, sections, manage it directly from the editor.
-- 🔥 **SSR - pre-rendering** - SSR support for JAMstack, pre-render HTML for any kinds of websites.
-- 🪄 **Framework agnostic** - otherwise from React, weaverse will compatible with any framework.
-- 💰 **Profitable for everyone** - users can sell their content, earn money, or just enjoy the website.
-
+- 🔥 **SSR - pre-rendering** - SSR support for JAM-stack, pre-render HTML for any kinds of websites.
+- 💰 **Marketplace** - users can sell their content by templates, sections, components,... and earn money.
+- 👨‍💻 **Experts** - Experts, Ambassadors, Developers, Designers, Marketers, and more.
 <br>
 <br>
 
